@@ -1,207 +1,207 @@
-country, bad
-Afghanistan, yes
-Albania, yes
-Algeria, no
-America, yes
-Andorra, no
-Angola, no
-Antigua, no
-Argentina, no
-Armenia, no
-Australia, no
-Austria, no
-Azerbaijan, no
-Bahamas, no
-Bahrain, no
-Bangladesh, no
-Barbados, no
-Belarus, no
-Belgium, no
-Belize, no
-Benin, no
-Bhutan, no
-Bissau, no
-Bolivia, no
-Bosnia, no
-Botswana, no
-Brazil, no
-British, yes
-Brunei, no
-Bulgaria, no
-Burkina, no
-Burma, no
-Burundi, no
-Cambodia, no
-Cameroon, no
-Canada, no
-Cape Verde, no
-Central African Republic, no
-Chad, no
-Chile, no
-China, no
-Colombia, yes
-Comoros, no
-Congo, no
-Costa Rica, no
-Croatia, no
-Cuba, no
-Cyprus, no
-Czech, no
-Denmark, no
-Djibouti, no
-Dominica, no
-East Timor, no
-Ecuador, no
-Egypt, no
-El Salvador, no
-Emirate, no
-England, no
-Eritrea, no
-Estonia, no
-Ethiopia, no
-Fiji, no
-Finland, no
-France, no
-Gabon, no
-Gambia, no
-Georgia, no
-Germany, no
-Ghana, no
-Great Britain, no
-Greece, no
-Grenada, no
-Grenadines, no
-Guatemala, no
-Guinea, no
-Guyana, no
-Haiti, no
-Herzegovina, no
-Holland, no
-Honduras, no
-Hungary, no
-Iceland, no
-India, no
-Indonesia, no
-Iran, no
-Iraq, yes
-Ireland, yes
-Israel, no
-Italy, no
-Ivory Coast, no
-Jamaica, no
-Japan, no
-Jordan, no
-Kazakhstan, no
-Kenya, yes
-Kiribati, no
-Kosovo, no
-Kuwait, no
-Kyrgyzstan, no
-Laos, no
-Latvia, no
-Lebanon, no
-Lesotho, no
-Liberia, yes
-Libya, no
-Liechtenstein, no
-Lithuania, yes
-Luxembourg, no
-Macedonia, no
-Madagascar, no
-Malawi, no
-Malaysia, no
-Maldives, no
-Mali, no
-Malta, no
-Marshall, no
-Mauritania, no
-Mauritius, no
-Mexico, no
-Micronesia, no
-Moldova, no
-Monaco, no
-Mongolia, no
-Montenegro, no
-Morocco, no
-Mozambique, no
-Myanmar, no
-Namibia, no
-Nauru, no
-Nepal, no
-Netherlands, no
-New Zealand, no
-Nicaragua, no
-Niger, no
-Nigeria, no
-North Korea, no
-Norway, yes
-Oman, no
-Pakistan, no
-Palau, yes
-Panama, no
-Papua, no
-Paraguay, no
-Peru, no
-Philippines, no
-Poland, no
-Portugal, no
-Qatar, no
-Romania, no
-Russia, no
-Rwanda, yes
-Samoa, no
-San Marino, no
-Sao Tome, no
-Saudi Arabia, no
-Scotland, no
-Scottish, no
-Senegal, no
-Serbia, no
-Seychelles, no
-Sierra Leone, no
-Singapore, no
-Slovakia, no
-Slovenia, no
-Solomon, no
-Somalia, no
-South Africa, no
-South Korea, yes
-South Sudan, no
-Spain, no
-Sri Lanka, no
-St Kitts, no
-St Lucia, no
-Sudan, no
-Suriname, no
-Swaziland, no
-Sweden, no
-Switzerland, no
-Syria, yes
-Taiwan, no
-Tajikistan, no
-Tanzania, no
-Thailand, no
-Tobago, no
-Togo, no
-Tonga, no
-Trinidad, no
-Tunisia, no
-Turkey, yes
-Turkmenistan, no
-Tuvalu, no
-Uganda, no
-Ukraine, yes
-United Kingdom, no
-United States, no
-Uruguay, no
-USA, no
-Uzbekistan, yes
-Vanuatu, no
-Vatican, no
-Venezuela, no
-Vietnam, no
-Wales, no
-Welsh, no
-Yemen, yes
-Zambia, no
-Zimbabwe, no
+"country", "bad"
+"Afghanistan", "yes"
+"Albania", "yes"
+"Algeria", "no"
+"America", "yes"
+"Andorra", "no"
+"Angola", "no"
+"Antigua", "no"
+"Argentina", "no"
+"Armenia", "no"
+"Australia", "no"
+"Austria", "no"
+"Azerbaijan", "no"
+"Bahamas", "no"
+"Bahrain", "no"
+"Bangladesh", "no"
+"Barbados", "no"
+"Belarus", "no"
+"Belgium", "no"
+"Belize", "no"
+"Benin", "no"
+"Bhutan", "no"
+"Bissau", "no"
+"Bolivia", "no"
+"Bosnia", "no"
+"Botswana", "no"
+"Brazil", "no"
+"British", "yes"
+"Brunei", "no"
+"Bulgaria", "no"
+"Burkina", "no"
+"Burma", "no"
+"Burundi", "no"
+"Cambodia", "no"
+"Cameroon", "no"
+"Canada", "no"
+"Cape Verde", "no"
+"Central African Republic", "no"
+"Chad", "no"
+"Chile", "no"
+"China", "no"
+"Colombia", "yes"
+"Comoros", "no"
+"Congo", "no"
+"Costa Rica", "no"
+"Croatia", "no"
+"Cuba", "no"
+"Cyprus", "no"
+"Czech", "no"
+"Denmark", "no"
+"Djibouti", "no"
+"Dominica", "no"
+"East Timor", "no"
+"Ecuador", "no"
+"Egypt", "no"
+"El Salvador", "no"
+"Emirate", "no"
+"England", "no"
+"Eritrea", "no"
+"Estonia", "no"
+"Ethiopia", "no"
+"Fiji", "no"
+"Finland", "no"
+"France", "no"
+"Gabon", "no"
+"Gambia", "no"
+"Georgia", "no"
+"Germany", "no"
+"Ghana", "no"
+"Great Britain", "no"
+"Greece", "no"
+"Grenada", "no"
+"Grenadines", "no"
+"Guatemala", "no"
+"Guinea", "no"
+"Guyana", "no"
+"Haiti", "no"
+"Herzegovina", "no"
+"Holland", "no"
+"Honduras", "no"
+"Hungary", "no"
+"Iceland", "no"
+"India", "no"
+"Indonesia", "no"
+"Iran", "no"
+"Iraq", "yes"
+"Ireland", "yes"
+"Israel", "no"
+"Italy", "no"
+"Ivory Coast", "no"
+"Jamaica", "no"
+"Japan", "no"
+"Jordan", "no"
+"Kazakhstan", "no"
+"Kenya", "yes"
+"Kiribati", "no"
+"Kosovo", "no"
+"Kuwait", "no"
+"Kyrgyzstan", "no"
+"Laos", "no"
+"Latvia", "no"
+"Lebanon", "no"
+"Lesotho", "no"
+"Liberia", "yes"
+"Libya", "no"
+"Liechtenstein", "no"
+"Lithuania", "yes"
+"Luxembourg", "no"
+"Macedonia", "no"
+"Madagascar", "no"
+"Malawi", "no"
+"Malaysia", "no"
+"Maldives", "no"
+"Mali", "no"
+"Malta", "no"
+"Marshall", "no"
+"Mauritania", "no"
+"Mauritius", "no"
+"Mexico", "no"
+"Micronesia", "no"
+"Moldova", "no"
+"Monaco", "no"
+"Mongolia", "no"
+"Montenegro", "no"
+"Morocco", "no"
+"Mozambique", "no"
+"Myanmar", "no"
+"Namibia", "no"
+"Nauru", "no"
+"Nepal", "no"
+"Netherlands", "no"
+"New Zealand", "no"
+"Nicaragua", "no"
+"Niger", "no"
+"Nigeria", "no"
+"North Korea", "no"
+"Norway", "yes"
+"Oman", "no"
+"Pakistan", "no"
+"Palau", "yes"
+"Panama", "no"
+"Papua", "no"
+"Paraguay", "no"
+"Peru", "no"
+"Philippines", "no"
+"Poland", "no"
+"Portugal", "no"
+"Qatar", "no"
+"Romania", "no"
+"Russia", "no"
+"Rwanda", "yes"
+"Samoa", "no"
+"San Marino", "no"
+"Sao Tome", "no"
+"Saudi Arabia", "no"
+"Scotland", "no"
+"Scottish", "no"
+"Senegal", "no"
+"Serbia", "no"
+"Seychelles", "no"
+"Sierra Leone", "no"
+"Singapore", "no"
+"Slovakia", "no"
+"Slovenia", "no"
+"Solomon", "no"
+"Somalia", "no"
+"South Africa", "no"
+"South Korea", "yes"
+"South Sudan", "no"
+"Spain", "no"
+"Sri Lanka", "no"
+"St Kitts", "no"
+"St Lucia", "no"
+"Sudan", "no"
+"Suriname", "no"
+"Swaziland", "no"
+"Sweden", "no"
+"Switzerland", "no"
+"Syria", "yes"
+"Taiwan", "no"
+"Tajikistan", "no"
+"Tanzania", "no"
+"Thailand", "no"
+"Tobago", "no"
+"Togo", "no"
+"Tonga", "no"
+"Trinidad", "no"
+"Tunisia", "no"
+"Turkey", "yes"
+"Turkmenistan", "no"
+"Tuvalu", "no"
+"Uganda", "no"
+"Ukraine", "yes"
+"United Kingdom", "no"
+"United States", "no"
+"Uruguay", "no"
+"USA", "no"
+"Uzbekistan", "yes"
+"Vanuatu", "no"
+"Vatican", "no"
+"Venezuela", "no"
+"Vietnam", "no"
+"Wales", "no"
+"Welsh", "no"
+"Yemen", "yes"
+"Zambia", "no"
+"Zimbabwe", "no"
